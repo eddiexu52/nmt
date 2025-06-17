@@ -1,0 +1,140 @@
+ext-nmtedxu@hktdc.org
+MGr%9U6N69
+
+
+SIT
+http://dmcsappsit01:8080/mcs/
+
+
+UAT
+https://dmcsappuat01.hktdc.org:8443/mcs/
+
+
+Update to Vendor Remark if 
+"To-be-confirmed" - tbc
+"Requirement Clarification" - rc
+"Ready for SIT - QA testing" - qat
+"Ready for SIT - QA passed" - qap
+"Ready for SIT - QA fail" - qaf
+
+rc <-- Requirement Clarification
+fp <-- functional problem / bug fixing (including cosmetic issue (if mentioned in FRS))
+cr <-- change request (new requirement not mentioned in FRS)
+
+
+MSC user role
+
+REQUESTOR:
+
+DAP=Exhibitions and Digital Business
+general: 
+[DI Test Account] EDB Marketing Project Executive A (A03): di_test_15 / 20mar-3838  
+[DI Test Account] EDB Marketing Project Executive B (A03): di_test_16 / 30dec-4848
+[DI Test Account] EDB Business Matching Senior Executive (B02)	/ 30dec-4848
+[DI Test Account] EDB Business Matching Manager (C03): di_test_21 /	30dec-4848
+ 
+approver:
+[DI Test Account] EDB Marketing Section Head (D01): di_test_17 / 30dec-4848
+[DI Test Account] EDB Marketing Associate Director (E02): di_test_18 / 30dec-4848
+[DI Test Account] EDB Business Matching Section Head (D01):di_test_22/30dec-4848	Approver 1 (Grade D)
+[DI Test Account] EDB Business Matching Associate Director (E01):di_test_23/30dec-4848	Approver 2 (Grade E)
+
+
+CC:
+[DI Test Account] EDB Marketing Director (F01): di_test_19 / 30dec-4848
+[DI Test Account] EDB Business Matching Associate Director (F01): di_test_24	/ 30dec-4848
+[DI Test Account] EDB Assistant Executive Director (Z01): di_test_25/ 30dec-4848
+
+Section Head with T02
+[DI Test Account] EDB Business Matching Section Head (T02): di_test_26 / 30dec-4848
+
+
+
+
+
+DAP=Corporate Communications & Marketing
+general: 
+[DI Test Account] CCM SME Assistant Manager (C01): di_test_27 / 30dec-4848
+[DI Test Account] CCM SME Executive (A03): di_test_28 / 18feb-4848
+
+approver: 
+[DI Test Account] CCM CPA Team Head (D01): di_test_30 / 18feb-4848
+[DI Test Account] CCM Associate Director (E01): di_test_31 / 18feb-4848
+
+
+cc:
+[DI Test Account] CCM Director (F01): di_test_33 / 18feb-4848
+
+
+OS DAP=Paris Office
+General User:
+[DI Test Account] Paris Office Business Matching Manager : di_test_41/18feb-4848
+
+Approver 2 (BD 1):
+[DI Test Account] Paris Office Officer-in-charge (BD): di_test_42 / 18feb-4848
+
+CC (RD):
+[DI Test Account] Regional Director, Europe (RD): di_test_43 / 18feb-4848
+
+
+================================================
+DI user:
+DAP=Database Intelligence
+
+General user:
+[DI Test Account] DI DM Team General User C: di_test_03 / 30dec-4848
+[DI Test Account] DI DM Team General User D: di_test_04 / 30dec-4848
+[DI Test Account] GZDPC DM Team General User: di_test_05 / 30dec-4848
+
+approver:
+[DI Test Account] DI DM Team Approver: di_test_08 / 30dec-4848
+
+Supervisor:
+[DI Test Account] DI DM Team Supervisor A: di_test_01 / X
+[DI Test Account] DI DM Team Supervisor B:  di_test_02/30dec-4848
+
+System Admin:
+[DI Test Account] DI System Admin: di_test_06 / 30dec-4848
+
+
+================================================
+DISPATCH user:
+[DI Test Account] EDM / WhatsApp Admin A ->EDM Admin: di_test_09	30dec-4848
+[DI Test Account] EDM Admin B            ->EDM Admin: di_test_10	30dec-4848
+[DI Test Account] SMS Admin				 ->SMS Admin: di_test_11	30dec-4848
+[DI Test Account] MMS Admin              ->MMS Admin: di_test_12	30dec-4848
+[DI Test Account] WhatsApp Admin         ->WhatsApp Admin: di_test_13	30dec-4848
+[DI Test Account] Post Admin             ->Post Admin: di_test_14	30dec-4848
+
+================================================
+OS:
+di_test_41	18feb-4848
+
+MTI:
+di_test_34	18feb-4848
+
+
+
+
+
+
+
+
+
+
+Final COID: 
+17340
+17449
+
+
+
+
+
+
+
+
+
+
+
+
+ 
